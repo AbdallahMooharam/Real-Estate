@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Real-Estate/static/css/main.a0f91611.css",
+    "main.js": "/Real-Estate/static/js/main.ff9ced24.js",
+    "static/js/453.1874b7c6.chunk.js": "/Real-Estate/static/js/453.1874b7c6.chunk.js",
+    "static/media/pngtree-modern-residential-architecture-residential-urban-ecology-photo-picture-image_6660558.jpg": "/Real-Estate/static/media/pngtree-modern-residential-architecture-residential-urban-ecology-photo-picture-image_6660558.01490c3eb49e2d1a41c7.jpg",
+    "static/media/pngtree-city-night-real-estate-poster-image_204473.jpg": "/Real-Estate/static/media/pngtree-city-night-real-estate-poster-image_204473.8c94244e5b43e942d943.jpg",
+    "static/media/shutterstock_245476081-800x534-1.jpg": "/Real-Estate/static/media/shutterstock_245476081-800x534-1.a7f0f476f5fa5aa96de6.jpg",
+    "static/media/web-in15-6-1.jpg": "/Real-Estate/static/media/web-in15-6-1.20aaac9e33b3ace0cd00.jpg",
+    "index.html": "/Real-Estate/index.html",
+    "main.a0f91611.css.map": "/Real-Estate/static/css/main.a0f91611.css.map",
+    "main.ff9ced24.js.map": "/Real-Estate/static/js/main.ff9ced24.js.map",
+    "453.1874b7c6.chunk.js.map": "/Real-Estate/static/js/453.1874b7c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0f91611.css",
+    "static/js/main.ff9ced24.js"
+  ]
+}
